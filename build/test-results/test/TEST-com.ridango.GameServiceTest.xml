@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ridango.GameServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-09-12T20:41:20" hostname="LAPTOP-2QF5KJ12" time="0.476">
+  <properties/>
+  <testcase name="testProcessWinThirdTry()" classname="com.ridango.GameServiceTest" time="0.444"/>
+  <testcase name="testGetHiddenDrinkName()" classname="com.ridango.GameServiceTest" time="0.003"/>
+  <testcase name="testGetNewDrink()" classname="com.ridango.GameServiceTest" time="0.013"/>
+  <testcase name="testProcessIncorrectGuess()" classname="com.ridango.GameServiceTest" time="0.002"/>
+  <testcase name="testProcessRevealLetter()" classname="com.ridango.GameServiceTest" time="0.001"/>
+  <testcase name="testProcessWinFirstTry()" classname="com.ridango.GameServiceTest" time="0.001"/>
+  <testcase name="testStartGameInitialization()" classname="com.ridango.GameServiceTest" time="0.004"/>
+  <testcase name="testProcessWinMultiple()" classname="com.ridango.GameServiceTest" time="0.001"/>
+  <system-out><![CDATA[Congratulations! Your guess is correct! The correct drink is indeed Mojito.
+Your score is: 3
+Attempts left: 4
+Hint 1: Drink category - Cocktail
+M_____
+M_____
+Congratulations! Your guess is correct! The correct drink is indeed Mojito.
+Your score is: 5
+Congratulations! Your guess is correct! The correct drink is indeed Mojito.
+Your score is: 3
+Congratulations! Your guess is correct! The correct drink is indeed Mojito.
+Your score is: 8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
